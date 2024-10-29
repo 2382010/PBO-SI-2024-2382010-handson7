@@ -1,4 +1,4 @@
-package Abstraksi;
+package abstraksi;
 
 public class Main {
     public static void main(String[] args) {
